@@ -507,7 +507,6 @@ footer.copyright {
         background-repeat: no-repeat;
         background-size: 30px;
         cursor: pointer;
-        transition: 0.4s;
     }
     .toggle.active {
         width: 40px;
